@@ -1,14 +1,14 @@
 {
   "prefix": "!",
-  "groupID": 0000,
-  "bot_token": "token",
-  "rblxUserName": "username",
-  "rblxPassword": "password",
+  "groupID": 3974465,
+  "bot_token": "NTY2MDAzODAwNzU4ODEyNjcy.XUj-Ug.Vw1_l5CjfhBvUJSbnp2LOqMuNkY",
+  "rblxUserName": "TCRankSystem",
+  "rblxPassword": "123456789a",
   "rblxCookie": "cookie",
   "welcomeMessage": "Hi there, welcome to our official communication hub!",
-  "officerRole": "roleName",
-  "maxXP": 0000,
-  "xpAuditLogChannelID": "0000",
-  "mainChatChannelID": "0000",
+  "officerRole": "General",
+  "maxXP": 50,
+  "xpAuditLogChannelID": "472927724093308949",
+  "mainChatChannelID": "552327101622255617",
   "fireBaseURL": "firebaseURL"
 }
