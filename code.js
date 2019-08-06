@@ -1,13 +1,13 @@
 /* SETTINGS START */
 const prefix = "!"
-const groupID = 123123;
+const groupID = 3974465;
 const bot_token = process.env.botToken;
 const rblxCookie = process.env.rblxCookie;
 const officerRoleE = "Officer";
 const welcomeMessage = "Welcome!";
 const maxXP = 10;
-const xpAuditLogChannelID = "123123";
-const mainChatChannelID = "123123";
+const xpAuditLogChannelID = "472927724093308949";
+const mainChatChannelID = "552327101622255617";
 const fireBaseURL = process.env.fireBaseURL;
 /* SETTINGS END */
 
